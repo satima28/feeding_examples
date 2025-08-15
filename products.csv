@@ -4,5 +4,5 @@ P1002,G1,F001,"Mechanical Keyboard",45.00,Electronics
 P1003, G1, F001, "Iphone 13", 800.00, Electronics
 P2001,G2,F002,"Office Chair",120.50,Furniture
 P2002,G2,F002,"Standing Desk",250.00,Furniture
-P3001,,F003,"Consulting Service",500.00,Services
+P3001,G3,F003,"Consulting Service",500.00,Services
 
