@@ -1,1 +1,51 @@
+[
+  {
+    "external_id": "P1001",
+    "group_id": "G1",
+    "form_id": "F001",
+    "name": "Wireless Mouse",
+    "price": 15.99,
+    "category": "Electronics"
+  },
+  {
+    "external_id": "P1002",
+    "group_id": "G1",
+    "form_id": "F001",
+    "name": "Mechanical Keyboard",
+    "price": 45.00,
+    "category": "Electronics"
+  },
+  {
+    "external_id": "P1003",
+    "group_id": "G1",
+    "form_id": "F001",
+    "name": "Iphone 13",
+    "price": 800.00,
+    "category": "Phones"
+  },
+  {
+    "external_id": "P2001",
+    "group_id": "G2",
+    "form_id": "F002",
+    "name": "MacBook laptop",
+    "price": 120.50,
+    "category": "Laptops"
+  },
+  {
+    "external_id": "P2002",
+    "group_id": "G2",
+    "form_id": "F002",
+    "name": "LG Fridge",
+    "price": 250.00,
+    "category": "Electronics"
+  },
+  {
+    "external_id": "P2003",
+    "group_id": "G2",
+    "form_id": "F002",
+    "name": "LG TV",
+    "price": 250.00,
+    "category": "Electronics"
+  }
+]
 
