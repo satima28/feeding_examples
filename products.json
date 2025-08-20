@@ -24,7 +24,7 @@
     "category": "Phones"
   },
   {
-    "external_id": "P2001",
+    "external_id": "P2004",
     "group_id": "G2",
     "form_id": "F002",
     "name": "MacBook laptop",
@@ -32,7 +32,7 @@
     "category": "Laptops"
   },
   {
-    "external_id": "P2002",
+    "external_id": "P2005",
     "group_id": "G2",
     "form_id": "F002",
     "name": "LG Fridge",
@@ -40,7 +40,7 @@
     "category": "Electronics"
   },
   {
-    "external_id": "P2003",
+    "external_id": "P2006",
     "group_id": "G2",
     "form_id": "F002",
     "name": "LG TV",
@@ -48,7 +48,7 @@
     "category": "Electronics"
   },
     {
-    "external_id": "P2002",
+    "external_id": "P2007",
     "group_id": "G2",
     "form_id": "F002",
     "name": "LG Fridge",
@@ -56,7 +56,7 @@
     "category": "Electronics"
   },
   {
-    "external_id": "P2003",
+    "external_id": "P2008",
     "group_id": "G2",
     "form_id": "F002",
     "name": "LG TV",
