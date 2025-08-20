@@ -1,9 +1,9 @@
 external_id,group_id,form_id,name,price,category
 P1001,G1,F001,"Wireless Mouse",15.99,Electronics
 P1002,G1,F001,"Mechanical Keyboard",45.00,Electronics
-P1003, G1, F001, "Iphone 13", 800.00, Phones
-P2001,G2,F002,"MacBook laptop",120.50,Laptops
-P2001,G2,F002,"MacBook laptop",120.50,Laptops
-P2002,G2,F002,"LG Fridge",250.00, Electronics,
-P2002,G2,F002,"LG Fridge",250.00, New Item,
+P1003,G1, F001, "Iphone 13", 800.00, Phones
+P2004,G2,F002,"MacBook laptop",120.50,Laptops
+P2005,G2,F002,"MacBook laptop",120.50,Laptops
+P2006,G2,F002,"LG Fridge",250.00, Electronics,
+P2007,G2,F002,"LG Fridge",250.00, New Item,
 
