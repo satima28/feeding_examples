@@ -48,20 +48,13 @@
     "category": "Electronics"
   },
     {
-    "external_id": "P2007",
+    "external_id": "P2009",
     "group_id": "G2",
     "form_id": "F002",
     "name": "LG Fridge",
     "price": 250.00,
     "category": "Electronics"
   },
-  {
-    "external_id": "P2008",
-    "group_id": "G2",
-    "form_id": "F002",
-    "name": "LG TV",
-    "price": 250.00,
-    "category": "Electronics"
-  }
+
 ]
 
