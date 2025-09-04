@@ -1,3 +1,6 @@
 external_id,group_id,form_id,name,price,category
 P1001,G1,F001,"Wireless Mouse",15.99,Electronics
 P1002,G1,F001,"Random Phone",15.99,Electronics
+P1003,G1,F001,"Random TV",15.99,Electronics
+P1004,G1,F001,"New Phone",15.99,Electronics
+P1005,G1,F001,"Random Mouse",15.99,Electronics
