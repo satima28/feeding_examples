@@ -1,0 +1,17 @@
+- external_id: P1001
+  group_id: G1
+  item_name: Wireless Mouse
+  price: 15.99
+  category: Electronics
+
+- external_id: P1002
+  group_id: G1
+  item_name: Mechanical Keyboard
+  price: 45.00
+  category: Electronics
+
+- external_id: P2001
+  group_id: G2
+  item_name: MacBook Laptop
+  price: 1200.00
+  category: Computers
