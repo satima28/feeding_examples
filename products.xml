@@ -435,33 +435,4 @@
     <Inventory_Count>1</Inventory_Count>
     <Date_Created>2018-02-28 23:57:53</Date_Created>
   </Product>
-  <Product>
-    <Product_ID>10448</Product_ID>
-    <SKU>SKE-15460</SKU>
-    <Name>Across The Pond Boots</Name>
-    <Product_URL>https://www.domain.com/product/ske-15460</Product_URL>
-    <Price>74.49</Price>
-    <Retail_Price>74.49</Retail_Price>
-    <Thumbnail_URL>https://www.domain.com/images/ske-15460_600x600.png</Thumbnail_URL>
-    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
-    <Description>Sociosqu facilisis duis ...</Description>
-    <Category>Shoes>Boots>Flat Boots</Category>
-    <Category_ID>334</Category_ID>
-    <Brand>Legacy Collective</Brand>
-    <Child_SKU>SKE-15460-BRN-6|SKE-15460-BRN-7|SKE-15460-BRN-8.5</Child_SKU>
-    <Child_Price></Child_Price>
-    <Color>Brown</Color>
-    <Color_Family>Brown</Color_Family>
-    <Color_Swatches></Color_Swatches>
-    <Size></Size>
-    <Shoe_Size>6|7|8.5</Shoe_Size>
-    <Pants_Size></Pants_Size>
-    <Occassion></Occassion>
-    <Season></Season>
-    <Badges></Badges>
-    <Rating_Avg>5</Rating_Avg>
-    <Rating_Count>6</Rating_Count>
-    <Inventory_Count>0</Inventory_Count>
-    <Date_Created>2018-06-25 18:09:07</Date_Created>
-  </Product>
 </Products>
