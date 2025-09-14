@@ -348,33 +348,4 @@
     <Inventory_Count>10</Inventory_Count>
     <Date_Created>2019-01-31 16:48:23</Date_Created>
   </Product>
-  <Product>
-    <Product_ID>9964</Product_ID>
-    <SKU>BCO-2208</SKU>
-    <Name>Word To The Wise Journal</Name>
-    <Product_URL>https://www.domain.com/product/bco-2208</Product_URL>
-    <Price>14.95</Price>
-    <Retail_Price>14.95</Retail_Price>
-    <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
-    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
-    <Description>Sociosqu facilisis duis ...</Description>
-    <Category>Home>Desk Decor>Journals</Category>
-    <Category_ID>410</Category_ID>
-    <Brand>Vintage Home</Brand>
-    <Child_SKU></Child_SKU>
-    <Child_Price></Child_Price>
-    <Color>Blue</Color>
-    <Color_Family>Blue</Color_Family>
-    <Color_Swatches></Color_Swatches>
-    <Size></Size>
-    <Shoe_Size></Shoe_Size>
-    <Pants_Size></Pants_Size>
-    <Occassion></Occassion>
-    <Season></Season>
-    <Badges></Badges>
-    <Rating_Avg>4</Rating_Avg>
-    <Rating_Count>32</Rating_Count>
-    <Inventory_Count>5</Inventory_Count>
-    <Date_Created>2018-10-18 15:19:37</Date_Created>
-  </Product>
 </Products>
